@@ -3,26 +3,26 @@
         "id": 1,
         "desc":"Opala",
         "imagem": "../../public/opala.jpg",
-        "valor":65000.000
+        "valor":65000.00
 
     },
     {
         "id": 2,
         "desc":"Caravan",
         "imagem": "../../public/Caravan.jpg",
-        "valor":59000.000
+        "valor":59000.00
 
     },{
         "id": 3,
         "desc":"Monza",
         "imagem": "../../public/Monza.jpg",
-        "valor":40000.000
+        "valor":40000.00
 
     },{
         "id": 4,
         "desc":"Chevy chevette Turbo",
         "imagem": "../../public/chevy.jpg",
-        "valor":50000.000
+        "valor":50000.00
 
     }
     
