@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.logo{
+    width: 300px;
+    height: 300px;
+    border-radius: 75%;
+    object-fit: cover; 
+}
+.errorDiv{
+    display: none;
+}
