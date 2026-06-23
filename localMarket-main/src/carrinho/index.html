@@ -4,20 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Carrinho</title>
+    <link rel="icon" type="image/svg+xml" href="../../public/logo.svg">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <a href="../loja/">Continuar Comprando</a>
+    <main class="cart-page">
+        <header class="cart-header">
+            <a class="btn-back" href="../loja/">← Continuar comprando</a>
+            <div class="cart-title-area">
+                <h1>Meu Carrinho</h1>
+                <p class="cart-subtitle">Confira os itens adicionados e finalize sua compra.</p>
+            </div>
+        </header>
 
-    <h1>Carrinho</h1>
+        <section class="cart-content">
+            <ul id="lista" class="cart-list"></ul>
 
-    <div id="lista"></div>
-    <h3 id="total"></h3>
+            <div class="cart-summary">
+                <h3 id="total">Total: R$0,00</h3>
+                <button class="btn-word" onclick="gerar()">Gerar Recibo</button>
+            </div>
+        </section>
 
-    <button class="btn-word" onclick="gerar()">Gerar Recibo</button>
+        <div id="empty-message" class="empty-message">O carrinho está vazio.</div>
+        <div id="pedido" class="pedido">Pedido gerado com sucesso!</div>
+    </main>
 
-    <p id="pedido">
-        pedido gerado com sucesso
-    </p>
+    <script src="script.js"></script>
 </body>
 </html>

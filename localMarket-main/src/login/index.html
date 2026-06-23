@@ -4,35 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
+    <link rel="icon" type="image/svg+xml" href="../../public/logo.svg">
     <link rel="stylesheet" href="style.css">
     <script src="https://code.jquery.com/jquery-4.0.0.js" integrity="sha256-9fsHeVnKBvqh3FB2HYu7g2xseAZ5MlN6Kz/qnkASV8U=" crossorigin="anonymous"></script>
 </head>
 <body>
-    <div class="formulario">
-        <div class="round">
-            <img class="logo" src="../../public/betoCinza-removebg-preview.png" alt="logo">
-        </div>
-        <div class="wrap-input-label">
-            <label for="nome">Nome</label>
-            <input type="text" id="nome" placeholder="insira seu Nome">
-        </div>
-        <div class="wrap-input-label">
-            <label for="senha">Senha</label>
-            <input type="password" id="senha" placeholder="Insira sua senha">
-        </div>
-        <div onclick="showPassword()">
-            <img src="../../public/view.png" alt="" id="eye" class="eye" width="25px">
-        </div>
-    </div>
-    <div>
-        <button class="btn-login" onclick="login()">login</button>
-    </div>
-    
-    <div class="errorDiv" id="error-modal">
-        <h3>credenciais incorretas</h3>
-        <button onclick="fecharError()">❌</button>
-    </div>
+    <main class="login-page">
+        <section class="form-card">
+            <div class="round">
+                <img class="logo" src="../../public/logo.svg" alt="logo">
+            </div>
+            <h1>Bem-vindo</h1>
+            <p>Entre com seu usuário e senha para continuar.</p>
 
+            <div class="wrap-input-label">
+                <label for="nome">Nome</label>
+                <input type="text" id="nome" placeholder="Insira seu nome">
+            </div>
+
+            <div class="wrap-input-label password-row">
+                <div>
+                    <label for="senha">Senha</label>
+                    <input type="password" id="senha" placeholder="Insira sua senha">
+                </div>
+                <button type="button" class="password-toggle" onclick="showPassword()">
+                    <img src="../../public/view.png" alt="Mostrar senha" id="eye" width="24">
+                </button>
+            </div>
+
+            <button class="btn-login" onclick="login()">Entrar</button>
+
+            <div class="errorDiv" id="error-modal">
+                <h3>Credenciais incorretas</h3>
+                <button type="button" onclick="fecharError()">Fechar</button>
+            </div>
+        </section>
+    </main>
 
     <script src="script.js"></script>
 </body>

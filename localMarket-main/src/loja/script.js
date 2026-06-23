@@ -30,13 +30,13 @@ document.addEventListener('DOMContentLoaded', function(){
                 const card = document.createElement("div")
                 card.innerHTML = `
                     <div class="card" style="width: 18rem;">
-                        <img src="${produto.imagem}" class="card-img-top" alt="${produto.desc}">
+                        <img src="${produto.imagem}" class="card-img-top" alt="${produto.desc}" onerror="this.src='../../public/logo.png'">
                         <div class="card-body">
                             <h5 class="card-title">${produto.desc}</h5>
                             <p class="card-text">$${produto.valor.toFixed(2)}</p>
-                            <a href="#" class="btn btn-primary adicionar" data-indice="${index}">
+                            <button type="button" class="btn btn-primary adicionar" data-indice="${index}">
                                 Adicionar ao carrinho
-                            </a>
+                            </button>
                         </div>
                     </div>`
                 produtosContainer.appendChild(card)
@@ -48,6 +48,7 @@ document.getElementById("produtos-container").addEventListener("click", function
     const btn = event.target.closest(".adicionar")
     if(!btn) return
 
+    event.preventDefault()
     const indexDoProduto = btn.dataset.indice
     const produtoSelecionado = produtos[indexDoProduto]
     let carrinho = JSON.parse(localStorage.getItem("carrinho")) || []

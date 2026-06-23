@@ -1,29 +1,122 @@
 [
-    {
-        "id": 1,
-        "desc":"Opala",
-        "imagem": "../../public/opala.jpg",
-        "valor":65000.00
-
-    },
-    {
-        "id": 2,
-        "desc":"Caravan",
-        "imagem": "../../public/Caravan.jpg",
-        "valor":59000.00
-
-    },{
-        "id": 3,
-        "desc":"Monza",
-        "imagem": "../../public/Monza.jpg",
-        "valor":40000.00
-
-    },{
-        "id": 4,
-        "desc":"Chevy chevette Turbo",
-        "imagem": "../../public/chevy.jpg",
-        "valor":50000.00
-
-    }
-    
+  {
+    "id": 1,
+    "desc": "Opala",
+    "imagem": "../../public/opala.jpg",
+    "valor": 65000.00
+  },
+  {
+    "id": 2,
+    "desc": "Caravan",
+    "imagem": "../../public/Caravan.jpg",
+    "valor": 59000.00
+  },
+  {
+    "id": 3,
+    "desc": "Monza",
+    "imagem": "../../public/Monza.jpg",
+    "valor": 40000.00
+  },
+  {
+    "id": 4,
+    "desc": "Chevy chevette Turbo",
+    "imagem": "../../public/chevy.jpg",
+    "valor": 50000.00
+  },
+  {
+    "id": 5,
+    "desc": "Kadett GSi",
+    "imagem": "../../public/kadett.jpg",
+    "valor": 45000.00
+  },
+  {
+    "id": 6,
+    "desc": "Omega CD 4.1",
+    "imagem": "../../public/omega.jpg",
+    "valor": 58000.00
+  },
+  {
+    "id": 7,
+    "desc": "Corsa GSi",
+    "imagem": "../../public/corsa.jpg",
+    "valor": 35000.00
+  },
+  {
+    "id": 8,
+    "desc": "Ipanema",
+    "imagem": "../../public/ipanema.jpg",
+    "valor": 22000.00
+  },
+  {
+    "id": 9,
+    "desc": "Vectra",
+    "imagem": "../../public/vectra.jpg",
+    "valor": 48000.00
+  },
+  {
+    "id": 10,
+    "desc": "Astra GSi",
+    "imagem": "../../public/astra.jpg",
+    "valor": 38000.00
+  },
+  {
+    "id": 11,
+    "desc": "Veraneio",
+    "imagem": "../../public/veraneio.jpg",
+    "valor": 75000.00
+  },
+  {
+    "id": 12,
+    "desc": "Chevrolet C10",
+    "imagem": "../../public/c10.jpg",
+    "valor": 80000.00
+  },
+  {
+    "id": 13,
+    "desc": "Calibra",
+    "imagem": "../../public/calibra.jpg",
+    "valor": 62000.00
+  },
+  {
+    "id": 14,
+    "desc": "Marajó",
+    "imagem": "../../public/marajo.jpg",
+    "valor": 18000.00
+  },
+  {
+    "id": 15,
+    "desc": "Chevette Hatch",
+    "imagem": "../../public/chevette_hach.jpg",
+    "valor": 25000.00
+  },
+  {
+    "id": 16,
+    "desc": "Bonanza",
+    "imagem": "../../public/bonanza.jpg",
+    "valor": 85000.00
+  },
+  {
+    "id": 17,
+    "desc": "D20",
+    "imagem": "../../public/d20.jpg",
+    "valor": 95000.00
+  },
+  {
+    "id": 18,
+    "desc": "Suprema",
+    "imagem": "../../public/suprema.jpg",
+    "valor": 42000.00
+  },
+  {
+    "id": 19,
+    "desc": "Tigra",
+    "imagem": "../../public/tigra.jpg",
+    "valor": 28000.00
+  },
+  {
+    "id": 20,
+    "desc": "Chevrolet Brasil 3100",
+    "imagem": "../../public/chevrolet3100.jpg",
+    "valor": 110000.00
+  }
 ]

@@ -44,18 +44,78 @@ h1{
     margin-bottom: 20px;
 }
 p{
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 1.2rem;
     text-align: center;
     margin-bottom: 20px;
+}
+#bem{
+    color: white;
+}
+.profile-info,
+.profile-info p,
+.profile-info #idPerfil,
+#perfil{
+    color: white !important;
+}
+.card-title,
+.card-text{
+    color: black;
 }
 div{
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 1.2rem;
     text-align: center;
     margin-bottom: 20px;
 }
-
+.produtos-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: 20px;
+    width: 100%;
+}
+.card{
+    width: 18rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: rgba(236, 239, 242, 0.95) !important;
+    border: 1px solid rgba(200, 205, 210, 0.4) !important;
+    border-radius: 18px;
+    box-shadow: 0 18px 35px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+}
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+.card-body{
+    background-color: transparent !important;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+    padding: 1rem;
+}
+.card-title{
+    color: #1f3251;
+    margin-bottom: 0.75rem;
+}
+.card-text{
+    color: #3b4561;
+}
+.idPerfil{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    color: white;
+}
 
 
 
