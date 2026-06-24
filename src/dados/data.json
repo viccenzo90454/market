@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "desc": "Opala 1969 de Coleção Certificado",
+    "imagem": "../../public/opala.jpg",
+    "valor": 650000.0
+  },
+  {
+    "id": 2,
+    "desc": "Caravan SS 1975 Placa Preta Rara",
+    "imagem": "../../public/Caravan.jpg",
+    "valor": 610000.0
+  },
+  {
+    "id": 3,
+    "desc": "Monza Hatch S/R 1986 Impecável",
+    "imagem": "../../public/Monza.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 4,
+    "desc": "Chevette Tubarão 1974 Turbo Premium",
+    "imagem": "../../public/chevy.jpg",
+    "valor": 605000.0
+  },
+  {
+    "id": 5,
+    "desc": "Kadett GSi Conversível 1992 Estado de Zero",
+    "imagem": "../../public/kadett.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 6,
+    "desc": "Omega CD 4.1 1995 Última Série Colecionador",
+    "imagem": "../../public/omega.jpg",
+    "valor": 620000.0
+  },
+  {
+    "id": 7,
+    "desc": "Corsa GSi 1995 100% Original Raridade",
+    "imagem": "../../public/corsa.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 8,
+    "desc": "Opala Diplomata SE 1992 Último Fabricado",
+    "imagem": "../../public/opaladiplomata.jpg",
+    "valor": 750000.0
+  },
+  {
+    "id": 9,
+    "desc": "Vectra GSi 1994 Vermelho Flame Integral",
+    "imagem": "../../public/vectra.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 10,
+    "desc": "Veraneio 1970 Restaurada Padrão Concurso",
+    "imagem": "../../public/veraneio.jpg",
+    "valor": 750000.0
+  },
+  {
+    "id": 11,
+    "desc": "Chevrolet C10 1976 Stepside Coleção",
+    "imagem": "../../public/c10.jpg",
+    "valor": 680000.0
+  },
+  {
+    "id": 12,
+    "desc": "Chevrolet Calibra 1994 Raridade Europeia",
+    "imagem": "../../public/calibra.jpg",
+    "valor": 620000.0
+  },
+  {
+    "id": 13,
+    "desc": "Marajó 1981 Placa Preta Raridade",
+    "imagem": "../../public/marajo.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 14,
+    "desc": "Chevette Hatch 1980 Fábrica 0km",
+    "imagem": "../../public/chevette_hach.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 15,
+    "desc": "Bonanza Custom 1989 Turbodiesel Prime",
+    "imagem": "../../public/bonanza.jpg",
+    "valor": 850000.0
+  },
+  {
+    "id": 16,
+    "desc": "Chevrolet D20 Custom S 1986 Raridade",
+    "imagem": "../../public/d20.jpg",
+    "valor": 950000.0
+  },
+  {
+    "id": 17,
+    "desc": "Suprema GLS 1994 Sem Detalhes",
+    "imagem": "../../public/suprema.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 18,
+    "desc": "Chevrolet Tigra 1998 Baixíssima KM",
+    "imagem": "../../public/tigra.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 19,
+    "desc": "Chevrolet Brasil 3100 1959 Totalmente Restaurada",
+    "imagem": "../../public/chevrolet3100.jpg",
+    "valor": 1100000.0
+  },
+  {
+    "id": 20,
+    "desc": "Opala SS 1974 6 Cilindros Original",
+    "imagem": "../../public/opala74.jpg",
+    "valor": 950000.0
+  },
+  {
+    "id": 21,
+    "desc": "Chevy 500 Camping 1984 Impecável",
+    "imagem": "../../public/chevy500.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 22,
+    "desc": "Chevrolet D10 1980 Cabine Dupla Luxo",
+    "imagem": "../../public/d10.jpg",
+    "valor": 700000.0
+  },
+  {
+    "id": 23,
+    "desc": "Chevrolet Marta Rocha 1956 Premium V8",
+    "imagem": "../../public/martarocha.jpg",
+    "valor": 1350000.0
+  },
+  {
+    "id": 24,
+    "desc": "Monza Classic SE 1988 Caixote Placa Preta",
+    "imagem": "../../public/Monza.jpg",
+    "valor": 610000.0
+  },
+  {
+    "id": 25,
+    "desc": "Caravan Diplomata 1989 Invejável",
+    "imagem": "../../public/caravandiplo.jpg",
+    "valor": 720000.0
+  },
+  {
+    "id": 26,
+    "desc": "Opala Comodoro 1979 Interior de Luxo",
+    "imagem": "../../public/opalacomodoro79.jpg",
+    "valor": 650000.0
+  },
+  {
+    "id": 27,
+    "desc": "Caravan Comodoro 1982 Sem Retoques",
+    "imagem": "../../public/caravan82.jpg",
+    "valor": 630000.0
+  },
+  {
+    "id": 28,
+    "desc": "Chevrolet A10 1981 Álcool Original",
+    "imagem": "../../public/a10.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 29,
+    "desc": "Chevrolet C14 1968 Raridade Absoluta",
+    "imagem": "../../public/c14.jpg",
+    "valor": 650000.0
+  },
+  {
+    "id": 30,
+    "desc": "Chevrolet A20 Custom 1987 Coleção",
+    "imagem": "../../public/a20.jpg",
+    "valor": 720000.0
+  },
+  {
+    "id": 31,
+    "desc": "Chevrolet C20 Deluxe 1988 Militar",
+    "imagem": "../../public/c20.jpg",
+    "valor": 760000.0
+  },
+  {
+    "id": 32,
+    "desc": "Monza 500 EF 1990 Injeção Clássica",
+    "imagem": "../../public/monza500.jpg",
+    "valor": 615000.0
+  },
+  {
+    "id": 33,
+    "desc": "Chevette Bicudo 1982 Perfeito Estado",
+    "imagem": "../../public/chevettebicudo.jpg",
+    "valor": 600000.0
+  },
+  {
+    "id": 34,
+    "desc": "Chevrolet Boca de Sapo 1951 Pick-up de Leilão",
+    "imagem": "../../public/bocadesapo.jpg",
+    "valor": 1250000.0
+  },
+  {
+    "id": 35,
+    "desc": "Chevrolet Boca de Bagre 1954 Clássica",
+    "imagem": "../../public/bocadebagre.jpg",
+    "valor": 1150000.0
+  },
+  {
+    "id": 36,
+    "desc": "Chevrolet Rampeira 1948 Rara Sobrevivente",
+    "imagem": "../../public/chevyrampeira.jpg",
+    "valor": 980000.0
+  },
+  {
+    "id": 37,
+    "desc": "Opala Silver Star 1982 Edição Especial",
+    "imagem": "../../public/opalastar.jpg",
+    "valor": 700000.0
+  },
+  {
+    "id": 38,
+    "desc": "Chevrolet 1929 Phaeton Conversível de Época",
+    "imagem": "../../public/chevy29.jpg",
+    "valor": 1450000.0
+  },
+  {
+    "id": 39,
+    "desc": "Chevrolet Bel Air 1957 Coupe V8 Tri-Five",
+    "imagem": "../../public/belair.jpg",
+    "valor": 2200000.0
+  },
+  {
+    "id": 40,
+    "desc": "Chevrolet Impala Convertible 1959 Asas de Gaivota",
+    "imagem": "../../public/impala 59.jpg",
+    "valor": 2600000.0
+  },
+  {
+    "id": 41,
+    "desc": "Chevrolet Impala SS Coupe 1964 Colecionável",
+    "imagem": "../../public/impala64.jpg",
+    "valor": 1800000.0
+  },
+  {
+    "id": 42,
+    "desc": "Chevrolet Chevelle SS 454 Big Block 1970",
+    "imagem": "../../public/chevelle70.jpg",
+    "valor": 2900000.0
+  },
+  {
+    "id": 43,
+    "desc": "Chevrolet Corvette C1 1954 Roadster",
+    "imagem": "../../public/corvetec1.jpg",
+    "valor": 4500000.0
+  },
+  {
+    "id": 44,
+    "desc": "Chevrolet Corvette C2 Sting Ray Split Window 1963",
+    "imagem": "../../public/corvetec2.jpg",
+    "valor": 5200000.0
+  },
+  {
+    "id": 45,
+    "desc": "Chevrolet Corvette C3 Stingray 1968 Big Block",
+    "imagem": "../../public/corvetec3.jpg",
+    "valor": 2800000.0
+  },
+  {
+    "id": 46,
+    "desc": "Chevrolet Camaro Yenko S/C 1969 L72 Rarity",
+    "imagem": "../../public/camro.jpg",
+    "valor": 6000000.0
+  },
+  {
+    "id": 47,
+    "desc": "Chevrolet Camaro SS Convertible 1967",
+    "imagem": "../../public/camaro67.jpg",
+    "valor": 2500000.0
+  },
+  {
+    "id": 48,
+    "desc": "Chevrolet Nova SS 396 Turbo-Jet 1966",
+    "imagem": "../../public/nova66.jpg",
+    "valor": 1400000.0
+  },
+  {
+    "id": 49,
+    "desc": "Chevrolet El Camino SS 1969 Muscle Truck",
+    "imagem": "../../public/elcamino69.jpg",
+    "valor": 1350000.0
+  },
+  {
+    "id": 50,
+    "desc": "Oldsmobile 88 Rocket Futuramic 1950",
+    "imagem": "../../public/olds1950.jpg",
+    "valor": 1300000.0
+  },
+  {
+    "id": 51,
+    "desc": "Oldsmobile Super 88 Convertible 1953",
+    "imagem": "../../public/olds53.jpg",
+    "valor": 1450000.0
+  },
+  {
+    "id": 52,
+    "desc": "Oldsmobile 98 Holiday Hardtop Coupe 1955",
+    "imagem": "../../public/olds55.jpg",
+    "valor": 1700000.0
+  },
+  {
+    "id": 53,
+    "desc": "Oldsmobile Starfire 98 Convertible 1956",
+    "imagem": "../../public/olds56.jpg",
+    "valor": 2100000.0
+  },
+  {
+    "id": 54,
+    "desc": "Oldsmobile Super 88 Fiesta Wagon 1957",
+    "imagem": "../../public/olds57.jpg",
+    "valor": 1850000.0
+  },
+  {
+    "id": 55,
+    "desc": "Oldsmobile Dynamic 88 Holiday 1958",
+    "imagem": "../../public/olds58.jpg",
+    "valor": 1200000.0
+  },
+  {
+    "id": 56,
+    "desc": "Oldsmobile 98 SceniCoupe Flat-Top 1959",
+    "imagem": "../../public/olds59.jpg",
+    "valor": 1950000.0
+  },
+  {
+    "id": 57,
+    "desc": "Oldsmobile Starfire Hardtop Coupe 1961",
+    "imagem": "../../public/olds61.jpg",
+    "valor": 1500000.0
+  },
+  {
+    "id": 58,
+    "desc": "Oldsmobile Jetfire Turbo Rocket 1962 (Injeção de Água)",
+    "imagem": "../../public/olds62.jpg",
+    "valor": 2300000.0
+  },
+  {
+    "id": 59,
+    "desc": "Oldsmobile F-85 Cutlass Convertible 1963",
+    "imagem": "../../public/olds63.jpg",
+    "valor": 980000.0
+  },
+  {
+    "id": 60,
+    "desc": "Oldsmobile 442 Muscle Car Holiday Coupe 1964",
+    "imagem": "../../public/olds64.jpg",
+    "valor": 2400000.0
+  },
+  {
+    "id": 61,
+    "desc": "Oldsmobile Vista Cruiser Skyroof Wagon 1965",
+    "imagem": "../../public/olds65.jpg",
+    "valor": 1150000.0
+  },
+  {
+    "id": 62,
+    "desc": "Oldsmobile Toronado Big Block Luxury 1966 (FWD V8)",
+    "imagem": "../../public/olds66.jpg",
+    "valor": 2100000.0
+  },
+  {
+    "id": 63,
+    "desc": "Oldsmobile Cutlass Supreme L78 Coupe 1967",
+    "imagem": "../../public/olds67.jpg",
+    "valor": 1350000.0
+  },
+  {
+    "id": 64,
+    "desc": "Oldsmobile 442 Hurst/Olds Limited Edition 1968",
+    "imagem": "../../public/olds68.jpg",
+    "valor": 3200000.0
+  },
+  {
+    "id": 65,
+    "desc": "Oldsmobile 98 Luxury Sedan Rocket 455 1969",
+    "imagem": "../../public/olds69.jpg",
+    "valor": 1250000.0
+  },
+  {
+    "id": 66,
+    "desc": "Cadillac Series 61 Coupe Club 1950",
+    "imagem": "../../public/cadillac50.jpg",
+    "valor": 1600000.0
+  },
+  {
+    "id": 67,
+    "desc": "Cadillac Eldorado Series 62 Convertible 1953 (Edição Limitada)",
+    "imagem": "../../public/cadillac53.jpg",
+    "valor": 4800000.0
+  },
+  {
+    "id": 68,
+    "desc": "Cadillac Fleetwood Series 60 Special 1954",
+    "imagem": "../../public/cadillac54.jpg",
+    "valor": 1750000.0
+  },
+  {
+    "id": 69,
+    "desc": "Cadillac Eldorado Biarritz Convertible 1956",
+    "imagem": "../../public/cad56.jpg",
+    "valor": 3900000.0
+  },
+  {
+    "id": 70,
+    "desc": "Cadillac Eldorado Brougham Hand-built 1957 (Teto Inox)",
+    "imagem": "../../public/cad57.jpg",
+    "valor": 5500000.0
+  },
+  {
+    "id": 71,
+    "desc": "Cadillac Sedan de Ville Extended 1958",
+    "imagem": "../../public/cad58.jpg",
+    "valor": 2100000.0
+  },
+  {
+    "id": 72,
+    "desc": "Cadillac Eldorado Biarritz Iconic Tailfins 1959",
+    "imagem": "../../public/cad59.jpg",
+    "valor": 6500000.0
+  },
+  {
+    "id": 73,
+    "desc": "Cadillac Coupe de Ville High Fin Class 1960",
+    "imagem": "../../public/cad60.jpg",
+    "valor": 2400000.0
+  },
+  {
+    "id": 74,
+    "desc": "Cadillac Fleetwood Sixty Special Sedan 1961",
+    "imagem": "../../public/cad61.jpg",
+    "valor": 1850000.0
+  },
+  {
+    "id": 75,
+    "desc": "Cadillac Series 62 Classic Convertible 1962",
+    "imagem": "../../public/cad62.jpg",
+    "valor": 2200000.0
+  },
+  {
+    "id": 76,
+    "desc": "Cadillac Eldorado Biarritz Triple-White 1963",
+    "imagem": "../../public/cad63.jpg",
+    "valor": 2600000.0
+  },
+  {
+    "id": 77,
+    "desc": "Cadillac Sedan de Ville Comfort Cruising 1964",
+    "imagem": "../../public/cad64.jpg",
+    "valor": 1650000.0
+  },
+  {
+    "id": 78,
+    "desc": "Cadillac Calais Hardtop Luxury Coupe 1965",
+    "imagem": "../../public/cad65.jpg",
+    "valor": 1300000.0
+  },
+  {
+    "id": 79,
+    "desc": "Cadillac Fleetwood Brougham Presidential Suite 1966",
+    "imagem": "../../public/cad66.jpg",
+    "valor": 1550000.0
+  },
+  {
+    "id": 80,
+    "desc": "Cadillac Eldorado FWD Coupe Razor Edge 1967",
+    "imagem": "../../public/cad67.jpg",
+    "valor": 2300000.0
+  },
+  {
+    "id": 81,
+    "desc": "Cadillac Coupe de Ville 472 Big Block 1968",
+    "imagem": "../../public/cad68.jpg",
+    "valor": 1700000.0
+  },
+  {
+    "id": 82,
+    "desc": "Cadillac Fleetwood Eldorado Deluxe 1969",
+    "imagem": "../../public/cad69.jpg",
+    "valor": 1950000.0
+  },
+  {
+    "id": 83,
+    "desc": "Chevrolet Fleetline Deluxe Fastback 1950",
+    "imagem": "../../public/chevy50.jpg",
+    "valor": 1150000.0
+  },
+  {
+    "id": 84,
+    "desc": "Chevrolet Styleline Deluxe Bel Air Convertible 1952",
+    "imagem": "../../public/chevy52.jpg",
+    "valor": 950000.0
+  },
+  {
+    "id": 85,
+    "desc": "Chevrolet Nomad Sport Wagon 1955",
+    "imagem": "../../public/chevy55.jpg",
+    "valor": 2800000.0
+  },
+  {
+    "id": 86,
+    "desc": "Chevrolet One-Fifty Utility Sedan 1957",
+    "imagem": "../../public/chevy57.jpg",
+    "valor": 1400000.0
+  },
+  {
+    "id": 87,
+    "desc": "Chevrolet Two-Ten Hardtop Club Coupe 1956",
+    "imagem": "../../public/chevy56.jpg",
+    "valor": 1500000.0
+  },
+  {
+    "id": 88,
+    "desc": "Chevrolet Corvair Monza Club Coupe Rear-Engine 1960",
+    "imagem": "../../public/chevymonza.jpg",
+    "valor": 850000.0
+  },
+  {
+    "id": 89,
+    "desc": "Chevrolet Chevy II Nova 400 Convertible 1962",
+    "imagem": "../../public/nova62.jpg",
+    "valor": 900000.0
+  },
+  {
+    "id": 90,
+    "desc": "Chevrolet Malibu SS Convertible Muncie 4-Speed 1965",
+    "imagem": "../../public/chevelle65.jpg",
+    "valor": 1650000.0
+  },
+  {
+    "id": 91,
+    "desc": "Chevrolet Caprice Custom Coupe 427 1966",
+    "imagem": "../../public/caprice66.jpg",
+    "valor": 1550000.0
+  },
+  {
+    "id": 92,
+    "desc": "GMC Suburban 100 Deluxe V8 Pick-up 1956",
+    "imagem": "../../public/gmc56.jpg",
+    "valor": 1800000.0
+  },
+  {
+    "id": 93,
+    "desc": "Chevrolet Apache Fleetside Deluxe V8 1958",
+    "imagem": "../../public/apache58.jpg",
+    "valor": 1450000.0
+  },
+  {
+    "id": 94,
+    "desc": "Chevrolet Corvair Greenbrier Sportswagon 1961",
+    "imagem": "../../public/greenbier61.jpg",
+    "valor": 1100000.0
+  },
+  {
+    "id": 95,
+    "desc": "Chevrolet Master Deluxe Sedan 1939 Sobrevivente",
+    "imagem": "../../public/master.jpg",
+    "valor": 1250000.0
+  },
+  {
+    "id": 96,
+    "desc": "Oldsmobile 88 Holiday Coupe Super Rocket 1954",
+    "imagem": "../../public/olds8854.jpg",
+    "valor": 1350000.0
+  },
+  {
+    "id": 97,
+    "desc": "Oldsmobile 98 Convertible Luxury Edition 1957",
+    "imagem": "../../public/olds5798.jpg",
+    "valor": 2150000.0
+  },
+  {
+    "id": 98,
+    "desc": "Cadillac Eldorado Seville Hardtop Coupe 1956",
+    "imagem": "../../public/cad56eldo.jpg",
+    "valor": 3400000.0
+  },
+  {
+    "id": 99,
+    "desc": "Cadillac Series 75 Imperial Limousine 1959",
+    "imagem": "../../public/cad59series.jpg",
+    "valor": 4100000.0
+  },
+  {
+    "id": 100,
+    "desc": "Chevrolet Fleetmaster Convertible Super Rare 1947",
+    "imagem": "../../public/chevy47.jpg",
+    "valor": 1100000.0
+  }
+]
